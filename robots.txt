@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /golden-circle-direct/
+Disallow: /guide-
+Disallow: /editor-
